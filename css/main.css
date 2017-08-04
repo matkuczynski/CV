@@ -15,8 +15,12 @@
   padding: 8px 0;
 }
 
+.section-name1 {
+  background: #3b5998;
+}
+
 .section-name {
-  background: linear-gradient(141deg, aqua 0%, #1fc8db 51%, #2cb5e8 75%);
+  background: #8b9dc3;
 }
 
 .section-name h3 {
@@ -26,6 +30,10 @@
 .my-photo {
   width: 200px;
   border: solid 1px #000;
+}
+
+.progress-bar {
+  color: #3b5998;
 }
 
 
